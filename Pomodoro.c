@@ -27,7 +27,7 @@
 
 
 //Keypad map (Sets what button means what character)
-static uint8_t KeyPad_KeyMap[KEYPAD_ROWS][KEYPAD_COLS] = {      // Defaultni rozlozeni pro 4x4 KeyPad
+static uint8_t KeyPad_KeyMap[KEYPAD_ROWS][KEYPAD_COLS] = {      
 													'1', '2', '3', 'A',
 													'4', '5', '6', 'B',
 													'7', '8', '9', 'C',
